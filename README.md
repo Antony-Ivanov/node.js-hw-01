@@ -1,9 +1,9 @@
 # node.js-hw-01
 
-![listContacts](./images/listContacts.jpg)
+List ![listContacts](./images/listContacts.jpg)
 
-![getContactById](./images/getContactById.jpg)
+GetId ![getContactById](./images/getContactById.jpg)
 
-![addContact](./images/addContact.jpg)
+Add ![addContact](./images/addContact.jpg)
 
-![removeContact](./images/removeContact.jpg)
+Remove ![removeContact](./images/removeContact.jpg)
